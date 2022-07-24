@@ -1,0 +1,14 @@
+{
+    "name": "youss/php-form-using-oop",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Youssef"
+        }
+    ],
+    "require": {}
+}
